@@ -1,0 +1,4 @@
+name,type,tag,fy,E,b,R0,cR1,cR2,a1,a2,a3,a4,sig_init,fc,eps_c,fcu,eps_u,Lambda,ft,Ets,
+steel,Steel02,1,60,29000,0.1,18,0.925,0.15,0.05,1,0.05,1,0,,,,,,, ,
+unconfined,Concrete02,2,,,,,,,,,,,,-4,-0.003,,,,,,
+confined,Concrete02,3,,,,,,,,,,,,-4.5,-0.0035,,,,,,

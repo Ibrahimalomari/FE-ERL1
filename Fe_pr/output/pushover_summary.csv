@@ -1,0 +1,10 @@
+parameter,value,unit
+T1_period_mode_1,nan,s
+T2_period_mode_2,nan,s
+T3_period_mode_3,nan,s
+T4_period_mode_4,nan,s
+T5_period_mode_5,nan,s
+initial_stiffness_K0,79.431631,kips/in
+max_deflection,10.005962,in
+max_base_shear,499.204529,kips
+area_under_curve,3216.632949,kips*in
